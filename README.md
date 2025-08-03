@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dhiru579
-- 👀 I’m interested in ML,DL,AI
-- 🌱 I’m currently learning ML, DL
-- 💞️ I’m looking to collaborate on AI based projects !
+- 👀 I’m interested Python, Rust, C++
+- 🌱 I’m currently learning Rust.
 - 📫 reach me -> dhiru579@gmail.com 
 
 <!---
